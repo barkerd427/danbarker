@@ -1,0 +1,28 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: 0.15
+        theme: "Herring Cove"
+        flags: --buildDrafts=false
+#  after-steps:
+#      - wantedly/pretty-slack-notify:
+#          webhook_url: $SLACK_WEBHOOK_URL
+
+deploy:
+  steps:
+    - script:
+        name: Install packages
+        code: |
+          apt-get update
+    - install-packages:
+        packages: git ssh-client
+
+    - leipert/git-push:
+       gh_oauth: $GIT_TOKEN
+       repo: barkerd427/barkerd427.github.io
+       branch: master
+       basedir: public
+#  after-steps:
+#    - wantedly/pretty-slack-notify:
+#        webhook_url: $SLACK_WEBHOOK_URL

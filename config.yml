@@ -1,0 +1,47 @@
+name: Falcon Ridge
+author: Herring Cove
+baseurl: /
+description: Lenexa's best HOA
+github: http://www.github.com/arnp
+twitter: http://www.twitter.com/
+facebook: http://www.facebook.com
+linkedin: http://www.linkedin.com
+email: falconridgehoa@gmail.com
+location: 42°2'16"N   70°12'47"W
+disqus: diqus-username
+title: Falcon Ridge
+
+##Make sure to edit the above fields, especially for disqus.
+
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pools"
+    values:
+      layout: "default"
+
+params:
+  ProfilePicture: "images/profile.jpg"
+  links:
+    Home: "/"
+    News: "/news/"
+    Contact Us: "/contact/"
+    Events: "/events/"
+    New Homeowners: "/new-homeowners/"
+    Documents: "/documents/"
+    Photo Gallery: "/photos/"
+    Clubhouse: "/clubhouse/"
+    Pools: "/pools/"
+    Golf Course: "/golf/"
+    Trash Info: "/trash/"
