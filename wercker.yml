@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.15
-        theme: "Herring Cove"
+        theme: herring-cove
         flags: --buildDrafts=false
 #  after-steps:
 #      - wantedly/pretty-slack-notify:
