@@ -4,6 +4,7 @@ build:
     - arjen/hugo-build:
         version: "0.17"
         theme: academic
+        flags: --buildDrafts=true
 #  after-steps:
 #      - wantedly/pretty-slack-notify:
 #          webhook_url: $SLACK_WEBHOOK_URL
