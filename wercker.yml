@@ -2,8 +2,8 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: 0.15
-        theme: hugo-strata-theme
+        version: 0.18
+        theme: academic
         flags: --buildDrafts=false
 #  after-steps:
 #      - wantedly/pretty-slack-notify:
