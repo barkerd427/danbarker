@@ -21,7 +21,7 @@ caption = "My caption :smile:"
 
 +++
 
-Buy tickets now: [Attend RevolutionConf](https://ti.to/revolutionva/revolutionconf-2017 "Attend RevolutionConf")
+Buy tickets now: [Attend RevolutionConf](https://ti.to/revolutionva/revolutionconf-2017?discount_code=barker "Attend RevolutionConf")
 <br />
 Or become a sponsor: [Sponsor RevolutionConf](https://drive.google.com/open?id=0B0HrtfzUfLt6QjFVYW9VeV9vejQ "Sponsor RevolutionConf")
 
