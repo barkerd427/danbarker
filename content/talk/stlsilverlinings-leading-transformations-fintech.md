@@ -10,8 +10,8 @@ location = "Saint Louis, Missouri"
 selected = false
 math = true
 
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYTkQ2UUw4b3J2SU0"
+url_slides = "https://www.slideshare.net/DanielBarker4/leading-transformations-in-fintech-stl-silverlinings"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
@@ -21,9 +21,7 @@ caption = "My caption :smile:"
 
 +++
 
-Buy tickets now: [Attend STLSilverLinings](https://www.regonline.com/registration/login.aspx?eventID=1949976&MethodId=0&EventsessionId= "Attend STLSilverLinings")
-<br />
-Or become a sponsor: [Sponsor STLSilverLinings](http://stlsilverlinings.org/SponsorshipDetails "Sponsor STLSilverLinings")
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KgN6X7rRzRG6Wi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielBarker4/leading-transformations-in-fintech-stl-silverlinings" title="Leading Transformations in FinTech STL SilverLinings" target="_blank">Leading Transformations in FinTech STL SilverLinings</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/DanielBarker4">Daniel Barker</a></strong> </div>
 
 Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.
 
