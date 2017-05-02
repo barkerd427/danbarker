@@ -10,7 +10,7 @@ location = "Saint Louis, Missouri"
 selected = false
 math = true
 
-url_pdf = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYazlpem9EX1cyMTQ"
 url_slides = "https://www.slideshare.net/DanielBarker4/architecting-the-future-stl-silverlinings-75601607"
 url_video = ""
 
@@ -20,10 +20,7 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-Buy tickets now: [Attend STLSilverLinings](https://www.regonline.com/registration/login.aspx?eventID=1949976&MethodId=0&EventsessionId= "Attend STLSilverLinings")
-<br />
-Or become a sponsor: [Sponsor STLSilverLinings](http://stlsilverlinings.org/SponsorshipDetails "Sponsor STLSilverLinings")
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cdAOsXyTpJVlI8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielBarker4/architecting-the-future-stl-silverlinings-75601607" title="Architecting the future STL SilverLinings" target="_blank">Architecting the future STL SilverLinings</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/DanielBarker4">Daniel Barker</a></strong> </div>
 
 This talk will explore these concepts within k8s and Docker as well as work I've done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
 
