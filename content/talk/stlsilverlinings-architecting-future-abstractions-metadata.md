@@ -11,7 +11,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.slideshare.net/DanielBarker4/architecting-the-future-stl-silverlinings-75601607"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
