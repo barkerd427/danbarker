@@ -10,8 +10,8 @@ location = "Knoxville, Tennessee"
 selected = false
 math = true
 
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYcS1XZnFRTTRzdkU"
+url_slides = "https://www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-codestock"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
@@ -20,10 +20,7 @@ image = "headers/arc-design-01.jpg"
 caption = ""
 
 +++
-
-Buy tickets now: [Attend CodeStock](https://www.eventbrite.com/e/codestock-2017-tickets-31742178711#tickets "Attend CodeStock")
-<br />
-Or become a sponsor: [Sponsor CodeStock](https://assets.locomotive.works/sites/581e289274c48322462eba1d/assets/58750eb8a2f422503f557d93/CodeStock_-_2017_Sponsorship_Prospectus.pdf "Sponsor CodeStock")
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J5seCWwXE06MHJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-codestock" title="Architecting the Future: Abstractions and Metadata - CodeStock" target="_blank">Architecting the Future: Abstractions and Metadata - CodeStock</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/DanielBarker4">Daniel Barker</a></strong> </div>
 
 This talk will explore these concepts within k8s and Docker as well as work I've done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
 
