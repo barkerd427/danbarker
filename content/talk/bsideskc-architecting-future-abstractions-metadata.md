@@ -10,8 +10,8 @@ location = "Kansas City, Missouri"
 selected = false
 math = true
 
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYT2pfWGxKTzNMY1E"
+url_slides = "https://www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-bsideskc"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
@@ -21,9 +21,7 @@ caption = ""
 
 +++
 
-Buy tickets now: [Attend BSidesKC](https://www.bsideskc.org/attendee/ "Attend BSidesKC")
-<br />
-Or become a sponsor: [Sponsor BSidesKC](https://drive.google.com/file/d/0B9HBYjWM2gT9MlAwSjZXS0RSamc/view "Sponsor BSidesKC")
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LqJNDRELBFW9YU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-bsideskc" title="Architecting the Future: Abstractions and Metadata - BSidesKC" target="_blank">Architecting the Future: Abstractions and Metadata - BSidesKC</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/DanielBarker4">Daniel Barker</a></strong> </div>
 
 This talk will explore these concepts within k8s and Docker as well as work I've done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
 
