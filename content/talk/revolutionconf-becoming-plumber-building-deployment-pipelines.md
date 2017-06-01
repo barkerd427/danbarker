@@ -10,8 +10,8 @@ location = "Virginia Beach, Virginia"
 selected = false
 math = true
 
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYc0tvX1ZyRjBIZ3M"
+url_slides = "https://www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-revconf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
@@ -21,9 +21,7 @@ caption = "My caption :smile:"
 
 +++
 
-Buy tickets now: [Attend RevolutionConf](https://ti.to/revolutionva/revolutionconf-2017?discount_code=barker "Attend RevolutionConf")
-<br />
-Or become a sponsor: [Sponsor RevolutionConf](https://drive.google.com/open?id=0B0HrtfzUfLt6QjFVYW9VeV9vejQ "Sponsor RevolutionConf")
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IqNbvetJmh345U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-revconf" title="Becoming a Plumber: Building Deployment Pipelines - RevConf" target="_blank">Becoming a Plumber: Building Deployment Pipelines - RevConf</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/DanielBarker4">Daniel Barker</a></strong> </div>
 
 A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.
 
