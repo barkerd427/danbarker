@@ -1,5 +1,5 @@
 +++
-date = "2017-05-20T00:00:00"
+date = "2017-06-23T00:00:00"
 title = "Architecting the Future: Abstractions and Metadata"
 abstract = "Kubernetes and Docker are two of the top open source projects, and they’re built around abstractions and metadata. These two concepts are the key to architecting in the future. Come with me as I dig a little deeper into these concepts within k8s and Docker and provide some examples from my own work."
 abstract_short = ""
