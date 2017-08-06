@@ -1,11 +1,11 @@
 +++
-date = "2017-11-01T00:00:00"
+date = "2017-10-24T00:00:00"
 title = "Becoming a Plumber: Building Deployment Pipelines"
 abstract = "A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications."
 abstract_short = ""
-event = "LISA17"
-event_url = "https://www.usenix.org/conference/lisa17"
-location = "San Francisco, CA"
+event = "AllDayDevOps"
+event_url = "http://www.alldaydevops.com/"
+location = "Online"
 
 selected = false
 math = true
@@ -21,7 +21,8 @@ caption = "My caption :smile:"
 
 +++
 
-[Become a Sponsor!](mailto:sponsorship@usenix.org)
+[Become a Supporter!](http://www.alldaydevops.com/become-a-supporter)
+[Register!](http://www.alldaydevops.com/register)
 
 A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.
 
