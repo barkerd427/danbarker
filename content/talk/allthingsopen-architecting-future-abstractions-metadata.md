@@ -10,8 +10,8 @@ location = "Raleigh, North Carolina"
 selected = false
 math = true
 
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYeVNISy15andVd3c"
+url_slides = "https://www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-all-things-open"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
@@ -21,9 +21,7 @@ caption = ""
 
 +++
 
-[Register Now!](https://allthingsopen.org/register-now/)
-
-[Become a Sponsor](https://allthingsopen.org/call-for-sponsors/)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gmiYos98vsce7F" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/gmiYos98vsce7F" title="Architecting the Future: Abstractions and Metadata - All Things Open" target="_blank">Architecting the Future: Abstractions and Metadata - All Things Open</a> </strong> from <strong><a href="https://www.slideshare.net/DanielBarker4" target="_blank">Daniel Barker</a></strong> </div>
 
 This talk will explore these concepts within k8s and Docker as well as work I've done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
 
