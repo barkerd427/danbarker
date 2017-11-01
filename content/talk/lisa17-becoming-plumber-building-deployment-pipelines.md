@@ -10,8 +10,8 @@ location = "San Francisco, CA"
 selected = false
 math = true
 
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://drive.google.com/uc?export=download&id=0B88WpFWKRdpYQTExZGFlMUQwSkE"
+url_slides = "https://www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-lisa17"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
@@ -21,7 +21,7 @@ caption = "My caption :smile:"
 
 +++
 
-[Become a Sponsor!](mailto:sponsorship@usenix.org)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wC7bottiYo2ufL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-lisa17" title="Becoming A Plumber: Building Deployment Pipelines - LISA17" target="_blank">Becoming A Plumber: Building Deployment Pipelines - LISA17</a> </strong> from <strong><a href="https://www.slideshare.net/DanielBarker4" target="_blank">Daniel Barker</a></strong> </div>
 
 A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.
 
