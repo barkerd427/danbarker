@@ -29,4 +29,4 @@ weight = 1
 
 # Biography
 
-Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, before transitioning to a career in technology as a Software Engineer, then a DevOps Engineer, and now a Software Development Manager. He’s leading a team of engineers dedicated to bringing DevOps principles and practices to a financial and health services company. This team is core to a multi-million dollar transformation program. Dan is also an organizer of the DevOps KC Meetup and the DevOpsDays KC conference.
+Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, before transitioning to a career in technology as a Software Engineer, then a DevOps Engineer, a Software Development Manager, and now a Chief Architect. He's leading the technical and cultural transformation for the NAIC, a non-profit focused on consumer protection in the insurance industry. Dan is also an organizer of the DevOps KC Meetup and the DevOpsDays KC conference.
