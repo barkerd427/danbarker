@@ -16,7 +16,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/1dh7HvDVRSJj_oXzFKYd4-KjtFkcenYlry0Qdjob_dwI/edit?usp=sharing"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
