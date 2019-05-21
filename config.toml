@@ -24,8 +24,8 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Dan Barker"
   role = "Chief Architect"
-  organization = "National Association of Insurance Commissioners"
-  organization_url = "http://www.naic.org"
+  organization = "RSA Security"
+  organization_url = "https://rsa.com"
   avatar = "dan-barker.jpg"
   email = "dan@danbarker.codes"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
